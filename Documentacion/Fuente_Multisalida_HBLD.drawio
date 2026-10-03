@@ -1,0 +1,162 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT">
+  <diagram id="HBLD1" name="Diagrama HBLD">
+    <mxGraphModel dx="241717" dy="182080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" value="Diagrama de Bloques de Alto Nivel (HBLD) — Árbol de Potencia" vertex="1">
+          <mxGeometry height="50" width="800" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;align=center;verticalAlign=middle;fontStyle=2;" value="Fuente de alimentación multisalida: entrada AC → bus VIN DC → cinco ramas reguladas" vertex="1">
+          <mxGeometry height="35" width="800" x="400" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-2" edge="1" parent="1" source="ac" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="prot" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ac" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=14;" value="&lt;b&gt;ENTRADA AC&lt;/b&gt;&lt;br&gt;120 V rms / 60 Hz" vertex="1">
+          <mxGeometry height="80" width="180" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-3" edge="1" parent="1" source="prot" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xfmr" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prot" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;PROTECCIONES&lt;/b&gt;&lt;br&gt;Fusible + MOV + NTC + PE" vertex="1">
+          <mxGeometry height="80" width="190" x="270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-4" edge="1" parent="1" source="xfmr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rect" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfmr" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;TRANSFORMADOR&lt;/b&gt;&lt;br&gt;20 V rms / 10 A&lt;br&gt;secundarios en paralelo" vertex="1">
+          <mxGeometry height="80" width="200" x="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-5" edge="1" parent="1" source="rect" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="filter" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rect" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;RECTIFICADOR&lt;/b&gt;&lt;br&gt;Puente de diodos&lt;br&gt;onda completa" vertex="1">
+          <mxGeometry height="80" width="190" x="760" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-21" edge="1" parent="1" source="filter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="bus" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="330" />
+              <mxPoint x="930" y="330" />
+            </Array>
+            <mxPoint x="1072.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="filter" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;ETAPA DE FILTRADO&lt;/b&gt;&lt;br&gt;Capacitivo&lt;br&gt;30 000 µF" vertex="1">
+          <mxGeometry height="80" width="190" x="1000" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="ac" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="prot" />
+        <mxCell id="e2" edge="1" parent="1" source="prot" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="xfmr" />
+        <mxCell id="e3" edge="1" parent="1" source="xfmr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="rect" />
+        <mxCell id="e4" edge="1" parent="1" source="rect" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="filter" />
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-11" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="branch" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bus" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=3;fontSize=15;" value="&lt;b&gt;BUS DE ALIMENTACIÓN — VIN DC&lt;/b&gt;&lt;br&gt;≈ 27 V nominal (bus no regulado)" vertex="1">
+          <mxGeometry height="85" width="430" x="510" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ebus" edge="1" parent="1" source="filter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="bus" />
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-12" edge="1" parent="1" source="branch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="branch" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=2;align=center;" value="Distribución del VIN DC hacia las ramas" vertex="1">
+          <mxGeometry height="30" width="260" x="595" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-6" edge="1" parent="1" source="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-19" edge="1" parent="1" source="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="branch" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="430" />
+              <mxPoint x="320" y="430" />
+              <mxPoint x="320" y="435" />
+            </Array>
+            <mxPoint x="320" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;" value="&lt;b&gt;CONVERTIDOR DC/DC&lt;/b&gt;&lt;br&gt;LM2678T-12&lt;br&gt;Buck" vertex="1">
+          <mxGeometry height="85" width="190" x="50" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-7" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-15" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="branch" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="427.5" />
+            </Array>
+            <mxPoint x="470" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;" value="&lt;b&gt;CONVERTIDOR DC/DC&lt;/b&gt;&lt;br&gt;LM2678T-5.0&lt;br&gt;Buck" vertex="1">
+          <mxGeometry height="85" width="190" x="285" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-8" edge="1" parent="1" source="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;" value="&lt;b&gt;CONVERTIDOR DC/DC&lt;/b&gt;&lt;br&gt;LM2678T-3.3&lt;br&gt;Buck" vertex="1">
+          <mxGeometry height="85" width="190" x="530" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-9" edge="1" parent="1" source="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-13" edge="1" parent="1" source="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="branch" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;" value="&lt;b&gt;CONVERTIDOR DC/DC&lt;/b&gt;&lt;br&gt;TPS54560B&lt;br&gt;Buck-boost inversor" vertex="1">
+          <mxGeometry height="85" width="190" x="760" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-10" edge="1" parent="1" source="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-17" edge="1" parent="1" source="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="branch" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="427.5" />
+            </Array>
+            <mxPoint x="990" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;" value="&lt;b&gt;CONVERTIDOR DC/DC&lt;/b&gt;&lt;br&gt;LM2678T-ADJ&lt;br&gt;Buck ajustable" vertex="1">
+          <mxGeometry height="85" width="190" x="1000" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="o1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;SALIDA REGULADA&lt;/b&gt;&lt;br&gt;+12 V / 5 A" vertex="1">
+          <mxGeometry height="70" width="190" x="50" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="o2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;SALIDA REGULADA&lt;/b&gt;&lt;br&gt;+5 V / 5 A" vertex="1">
+          <mxGeometry height="70" width="190" x="285" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="o3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;SALIDA REGULADA&lt;/b&gt;&lt;br&gt;+3.3 V / 3 A" vertex="1">
+          <mxGeometry height="70" width="190" x="530" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="o4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;SALIDA REGULADA&lt;/b&gt;&lt;br&gt;−12 V / 1 A" vertex="1">
+          <mxGeometry height="70" width="190" x="760" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="o5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=13;" value="&lt;b&gt;SALIDA REGULADA&lt;/b&gt;&lt;br&gt;1.25–15 V / 3 A" vertex="1">
+          <mxGeometry height="70" width="190" x="1010" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="v1" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="c1" />
+        <mxCell id="v2" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="c2" />
+        <mxCell id="v3" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="c3" />
+        <mxCell id="v4" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="c4" />
+        <mxCell id="v5" edge="1" parent="1" source="bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="c5" />
+        <mxCell id="r1" edge="1" parent="1" source="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="o1" />
+        <mxCell id="r2" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="o2" />
+        <mxCell id="r3" edge="1" parent="1" source="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="o3" />
+        <mxCell id="r4" edge="1" parent="1" source="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="o4" />
+        <mxCell id="r5" edge="1" parent="1" source="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;" target="o5" />
+        <mxCell id="pnote" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontSize=11;" value="&lt;b&gt;Protecciones&lt;/b&gt;&lt;br&gt;Entrada: fusible, MOV, NTC y PE&lt;br&gt;Salidas: limitación de corriente / cortocircuito y protección térmica según convertidor" vertex="1">
+          <mxGeometry height="125" width="300" x="1200" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ONOLSdApR8UC1zS1GaUe-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="750" y="540" as="sourcePoint" />
+            <mxPoint x="800" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
