@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+24V Pin=C201-1
+Removed Pin From Net: NetName=+12V Pin=C203-1
+Removed Pin From Net: NetName=GND Pin=C203-2
+Change Component Footprint: Designator=C201 Old Footprint=WCAP-AT1H_13X25(DXL) New Footprint=CAPPRD500W60D1000H1600
+Change Component Footprint: Designator=C203 Old Footprint=WCAP-AT1H_13X25(DXL) New Footprint=CAPPRD500W60D1000H1600
+Change component parameters: Designator = "C201" ("C201"); Footprint = "WCAP-AT1H_13X25(DXL)"; UniqueID = "\GDFWZDLA" ("\GDFWZDLA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECA-1VM471B/Panasonic+Electronic+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECA-1VM471B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ECA-1VM471B/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECA-1VM471B/Panasonic+Electronic+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C203" ("C203"); Footprint = "WCAP-AT1H_13X25(DXL)"; UniqueID = "\JPCNDXJW" ("\JPCNDXJW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECA-1VM471B/Panasonic+Electronic+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECA-1VM471B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ECA-1VM471B/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECA-1VM471B/Panasonic+Electronic+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=C201-P
+Added Pin To Net: NetName=GND Pin=C203-N
+Added Pin To Net: NetName=+12V Pin=C203-P
+Added Pin To Net: NetName=NetC201_N Pin=C201-N
+Added Pin To Net: NetName=NetC201_N Pin=C202-2
+Added Pin To Net: NetName=NetC201_N Pin=U200-8
+Added Net: Name=NetC201_N

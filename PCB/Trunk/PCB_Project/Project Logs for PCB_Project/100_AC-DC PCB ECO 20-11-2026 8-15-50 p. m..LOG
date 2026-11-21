@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=C303 Old Footprint=WCAP-PTG5_8X8(DXL) New Footprint=Cap_180uF_16V_ALU_SMD
+Change Component Comment : Designator=C303 Old Comment=160uF New Comment=180uF
+Change component parameters: Designator = "C303" ("C303"); Footprint = "WCAP-PTG5_8X8(DXL)"; UniqueID = "\PIHZWFOQ" ("\PIHZWFOQ")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240309"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "875075355001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel stock"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "875075355001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "180uF"; VariantName = "[No Variations]"
+Added Component: Designator=C304(Cap_180uF_16V_ALU_SMD)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240309"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "875075355001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "875075355001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C304-1
+Added Pin To Net: NetName=GND Pin=C304-2
+Added Member To Class: ClassName=201_DC-DC Member=Component C304 180uF

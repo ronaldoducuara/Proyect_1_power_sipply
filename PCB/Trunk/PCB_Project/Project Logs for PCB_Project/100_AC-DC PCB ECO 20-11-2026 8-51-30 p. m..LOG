@@ -1,0 +1,70 @@
+Change Footprint: Footprint Not Found Cap_220uF_10V_ALU_SMD
+Added Member To Class: ClassName=204_DC-DC Member=Component 600 33R 2W
+Added Member To Class: ClassName=100_AC-DC Member=Component C100 2200uF
+Added Member To Class: ClassName=100_AC-DC Member=Component C101 2200uF
+Added Member To Class: ClassName=100_AC-DC Member=Component C102 2200uF
+Added Member To Class: ClassName=100_AC-DC Member=Component C103 2200uF
+Added Member To Class: ClassName=100_AC-DC Member=Component C104 2200uF
+Added Member To Class: ClassName=100_AC-DC Member=Component C105 100nF 100V
+Added Member To Class: ClassName=200_DC-DC Member=Component C200 10000pF 50V
+Added Member To Class: ClassName=200_DC-DC Member=Component C201 470uF
+Added Member To Class: ClassName=200_DC-DC Member=Component C202 100nF 100V
+Added Member To Class: ClassName=200_DC-DC Member=Component C203 470uF
+Added Member To Class: ClassName=201_DC-DC Member=Component C300 10000pF 50V
+Added Member To Class: ClassName=201_DC-DC Member=Component C301 470uF
+Added Member To Class: ClassName=201_DC-DC Member=Component C302 100nF 100V
+Added Member To Class: ClassName=201_DC-DC Member=Component C303 180uF
+Added Member To Class: ClassName=201_DC-DC Member=Component C304 180uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C400 10nF 100V
+Added Member To Class: ClassName=202_DC-DC Member=Component C401 680uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C402 680uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C403 220uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C404 220uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C405 220uF
+Added Member To Class: ClassName=202_DC-DC Member=Component C406 0.47uF 50V
+Added Member To Class: ClassName=202_DC-DC Member=Component C407 100nF 25V
+Added Member To Class: ClassName=203_DC-DC Member=Component C500 100nF 100V
+Added Member To Class: ClassName=203_DC-DC Member=Component C501 220uF 35V
+Added Member To Class: ClassName=203_DC-DC Member=Component C502 10uF 25V
+Added Member To Class: ClassName=203_DC-DC Member=Component C503 10uF 50V
+Added Member To Class: ClassName=203_DC-DC Member=Component C504 100uF 25V
+Added Member To Class: ClassName=203_DC-DC Member=Component C505 22nF 25V
+Added Member To Class: ClassName=204_DC-DC Member=Component C600 10nF 50V
+Added Member To Class: ClassName=204_DC-DC Member=Component C601 100uF 25V
+Added Member To Class: ClassName=204_DC-DC Member=Component C602 100nF 25V
+Added Member To Class: ClassName=204_DC-DC Member=Component C603 220uF 50V
+Added Member To Class: ClassName=204_DC-DC Member=Component C604 220uF 50V
+Added Member To Class: ClassName=204_DC-DC Member=Component C605 100nF 100V
+Added Member To Class: ClassName=100_AC-DC Member=Component D100 KBPC10/15/2510FP_1ph
+Added Member To Class: ClassName=200_DC-DC Member=Component D200 VS-6TQ045S-M3
+Added Member To Class: ClassName=201_DC-DC Member=Component D300 VS-6TQ045S-M3
+Added Member To Class: ClassName=202_DC-DC Member=Component D400 MBRAD1060H
+Added Member To Class: ClassName=203_DC-DC Member=Component D500 MBRAD1060H
+Added Member To Class: ClassName=204_DC-DC Member=Component D600 MBRAD1060H
+Added Member To Class: ClassName=100_AC-DC Member=Component F100 500V 10A
+Added Member To Class: ClassName=100_AC-DC Member=Component J100 2X1
+Added Member To Class: ClassName=100_AC-DC Member=Component J101 2X1
+Added Member To Class: ClassName=100_AC-DC Member=Component J102 2X1
+Added Member To Class: ClassName=200_DC-DC Member=Component J200 2X1
+Added Member To Class: ClassName=201_DC-DC Member=Component J300 2X1
+Added Member To Class: ClassName=202_DC-DC Member=Component J400 2X1
+Added Member To Class: ClassName=203_DC-DC Member=Component J500 2X1
+Added Member To Class: ClassName=204_DC-DC Member=Component J600 2X1
+Added Member To Class: ClassName=200_DC-DC Member=Component L200 15uH
+Added Member To Class: ClassName=201_DC-DC Member=Component L300 22uH
+Added Member To Class: ClassName=202_DC-DC Member=Component L400 15uH
+Added Member To Class: ClassName=203_DC-DC Member=Component L500 47uH 3A
+Added Member To Class: ClassName=204_DC-DC Member=Component L600 47uH 3A
+Added Member To Class: ClassName=100_AC-DC Member=Component R100 S14K300
+Added Member To Class: ClassName=203_DC-DC Member=Component R500 10k 1/10W
+Added Member To Class: ClassName=203_DC-DC Member=Component R501 140K 1/10W
+Added Member To Class: ClassName=203_DC-DC Member=Component R502 200k 1/4W
+Added Member To Class: ClassName=203_DC-DC Member=Component R503 10k 1/10W
+Added Member To Class: ClassName=204_DC-DC Member=Component R600 1/10W
+Added Member To Class: ClassName=204_DC-DC Member=Component R601 1k 1/10W
+Added Member To Class: ClassName=200_DC-DC Member=Component U200 LM2678S-12
+Added Member To Class: ClassName=201_DC-DC Member=Component U300 LM2678S-5.0
+Added Member To Class: ClassName=202_DC-DC Member=Component U400 LM2678S-3.3
+Added Member To Class: ClassName=203_DC-DC Member=Component U500 TPS54560BDDA
+Added Member To Class: ClassName=204_DC-DC Member=Component U600 LM2678S-ADJ
+Added Member To Class: ClassName=204_DC-DC Member=Component VR600 10k 1/5W

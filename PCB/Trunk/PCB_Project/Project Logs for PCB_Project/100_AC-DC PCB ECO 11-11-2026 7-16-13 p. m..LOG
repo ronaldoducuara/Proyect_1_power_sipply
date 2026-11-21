@@ -1,0 +1,12 @@
+Add component: Footprint Not Found TO-263AB_D2PAK_VIAS
+Add component: Footprint Not Found TO-263AB_D2PAK_VIAS
+Add Pin To Net: Unknown Pin: Pin D200-1
+Add Pin To Net: Unknown Pin: Pin D200-4
+Add Pin To Net: Unknown Pin: Pin D300-1
+Add Pin To Net: Unknown Pin: Pin F101-2
+Added Pin To Net: NetName=NetF101_1 Pin=J100-2
+Added Pin To Net: NetName=NetF101_1 Pin=J101-1
+Added Net: Name=NetF101_1
+Add Class Member: Failed to add class member : Component D200 Schottky-Dual-Diode_CC
+Add Class Member: Failed to add class member : Component D300 Schottky-Dual-Diode_CC
+Add Class Member: Failed to add class member : Component F101 14D470K

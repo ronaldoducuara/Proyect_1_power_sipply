@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+24V Pin=C201-P
+Removed Pin From Net: NetName=GND Pin=C203-N
+Removed Pin From Net: NetName=+12V Pin=C203-P
+Change Component Footprint: Designator=C201 Old Footprint=CAPPRD500W60D1000H1600 New Footprint=WCAP-AT1H_13X25(DXL)
+Change Component Footprint: Designator=C203 Old Footprint=CAPPRD500W60D1000H1600 New Footprint=WCAP-AT1H_13X25(DXL)
+Change component parameters: Designator = "C201" ("C201"); Footprint = "CAPPRD500W60D1000H1600"; UniqueID = "\QPESTNQN" ("\QPESTNQN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/860240578010/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "860240578010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/860240578010/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C203" ("C203"); Footprint = "CAPPRD500W60D1000H1600"; UniqueID = "\DVSADQNR" ("\DVSADQNR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/860240578010/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "860240578010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/860240578010/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=C201-1
+Added Pin To Net: NetName=+12V Pin=C203-1
+Added Pin To Net: NetName=GND Pin=C203-2
+Added Pin To Net: NetName=NetC201_2 Pin=C201-2
+Added Pin To Net: NetName=NetC201_2 Pin=C202-2
+Added Pin To Net: NetName=NetC201_2 Pin=U200-8
+Added Net: Name=NetC201_2

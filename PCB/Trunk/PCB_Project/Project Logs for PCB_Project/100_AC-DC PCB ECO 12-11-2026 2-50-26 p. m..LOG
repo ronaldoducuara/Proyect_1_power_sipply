@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=+12V Pin=J200-1
+Removed Pin From Net: NetName=GND Pin=J200-2
+Removed Pin From Net: NetName=+5V Pin=J300-1
+Removed Pin From Net: NetName=GND Pin=J300-2
+Removed Pin From Net: NetName=+3.3V Pin=J400-1
+Removed Pin From Net: NetName=GND Pin=J400-2
+Removed Pin From Net: NetName=GND Pin=J500-1
+Removed Pin From Net: NetName=-12V Pin=J500-2
+Removed Pin From Net: NetName=+1.25-15V Pin=J600-1
+Removed Pin From Net: NetName=GND Pin=J600-2
+Change Component Footprint: Designator=J200 Old Footprint=CON_2X1_TH_8.26mm_Barrier_Block New Footprint=CON_2X1_TH_5MM_BAT
+Change Component Footprint: Designator=J300 Old Footprint=CON_2X1_TH_8.26mm_Barrier_Block New Footprint=CON_2X1_TH_5MM_BAT
+Change Component Footprint: Designator=J400 Old Footprint=CON_2X1_TH_8.26mm_Barrier_Block New Footprint=CON_2X1_TH_5MM_BAT
+Change Component Footprint: Designator=J500 Old Footprint=CON_2X1_TH_8.26mm_Barrier_Block New Footprint=CON_2X1_TH_5MM_BAT
+Change Component Footprint: Designator=J600 Old Footprint=CON_2X1_TH_8.26mm_Barrier_Block New Footprint=CON_2X1_TH_5MM_BAT
+Change Component Comment : Designator=J200 Old Comment=CON-2P New Comment=2X1
+Change Component Comment : Designator=J300 Old Comment=CON-2P New Comment=2X1
+Change Component Comment : Designator=J400 Old Comment=CON-2P New Comment=2X1
+Change Component Comment : Designator=J500 Old Comment=CON-2P New Comment=2X1
+Change Component Comment : Designator=J600 Old Comment=CON-2P New Comment=2X1
+Change component parameters: Designator = "J200" ("J200"); Footprint = "CON_2X1_TH_8.26mm_Barrier_Block"; UniqueID = "\ACOYKHAD" ("\ACOYKHAD")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J300" ("J300"); Footprint = "CON_2X1_TH_8.26mm_Barrier_Block"; UniqueID = "\JXPYRVKU" ("\JXPYRVKU")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J400" ("J400"); Footprint = "CON_2X1_TH_8.26mm_Barrier_Block"; UniqueID = "\XLNRHYHI" ("\XLNRHYHI")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J500" ("J500"); Footprint = "CON_2X1_TH_8.26mm_Barrier_Block"; UniqueID = "\YGASMGUV" ("\YGASMGUV")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J600" ("J600"); Footprint = "CON_2X1_TH_8.26mm_Barrier_Block"; UniqueID = "\ZQEVSINS" ("\ZQEVSINS")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J200-1
+Added Pin To Net: NetName=+12V Pin=J200-2
+Added Pin To Net: NetName=GND Pin=J300-1
+Added Pin To Net: NetName=+5V Pin=J300-2
+Added Pin To Net: NetName=GND Pin=J400-1
+Added Pin To Net: NetName=+3.3V Pin=J400-2
+Added Pin To Net: NetName=-12V Pin=J500-1
+Added Pin To Net: NetName=GND Pin=J500-2
+Added Pin To Net: NetName=GND Pin=J600-1
+Added Pin To Net: NetName=+1.25-15V Pin=J600-2
