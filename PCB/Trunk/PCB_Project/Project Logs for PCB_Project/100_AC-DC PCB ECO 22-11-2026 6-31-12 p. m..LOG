@@ -1,0 +1,116 @@
+Add component: Footprint Not Found D_Bridge_1000V_25A_KBPC_FP
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Added Component: Designator=U200(DCDC_12V_5A_TO263)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2678S-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LM2678S-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U300(DCDC_5V_5A_TO263)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2678S-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LM2678S-5.0-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U400(DCDC_3.3V_5A_TO263)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2678S-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LM2678S-3.3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U500(DCDC_ADJ_5A_DDA)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS54560BDDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-TPS54560BDDA-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U600(DCDC_ADJ_5A_TO263)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2678S-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LM2678S-ADJ-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BR100-1
+Add Pin To Net: Unknown Pin: Pin BR100-2
+Add Pin To Net: Unknown Pin: Pin BR100-3
+Add Pin To Net: Unknown Pin: Pin BR100-4
+Add Pin To Net: Unknown Pin: Pin C404-1
+Add Pin To Net: Unknown Pin: Pin C404-2
+Add Pin To Net: Unknown Pin: Pin C405-1
+Add Pin To Net: Unknown Pin: Pin C405-2
+Add Pin To Net: Unknown Pin: Pin D400-1
+Add Pin To Net: Unknown Pin: Pin D400-3
+Add Pin To Net: Unknown Pin: Pin D500-1
+Add Pin To Net: Unknown Pin: Pin D500-3
+Add Pin To Net: Unknown Pin: Pin D600-1
+Add Pin To Net: Unknown Pin: Pin D600-3
+Added Pin To Net: NetName=NetC200_2 Pin=U200-1
+Added Pin To Net: NetName=+24V Pin=U200-2
+Added Pin To Net: NetName=NetC200_1 Pin=U200-3
+Added Pin To Net: NetName=GND Pin=U200-4
+Added Pin To Net: NetName=+12V Pin=U200-6
+Added Pin To Net: NetName=+12V Pin=U200-7
+Added Pin To Net: NetName=NetC201_N Pin=U200-8
+Added Pin To Net: NetName=NetC300_2 Pin=U300-1
+Added Pin To Net: NetName=+24V Pin=U300-2
+Added Pin To Net: NetName=NetC300_1 Pin=U300-3
+Added Pin To Net: NetName=GND Pin=U300-4
+Added Pin To Net: NetName=+5V Pin=U300-6
+Added Pin To Net: NetName=+24V Pin=U300-7
+Added Pin To Net: NetName=NetC301_N Pin=U300-8
+Added Pin To Net: NetName=NetC400_2 Pin=U400-1
+Added Pin To Net: NetName=+24V Pin=U400-2
+Added Pin To Net: NetName=NetC400_1 Pin=U400-3
+Added Pin To Net: NetName=GND Pin=U400-4
+Added Pin To Net: NetName=+3.3V Pin=U400-6
+Added Pin To Net: NetName=+24V Pin=U400-7
+Added Pin To Net: NetName=GND Pin=U400-8
+Added Pin To Net: NetName=NetC500_1 Pin=U500-1
+Added Pin To Net: NetName=+24V Pin=U500-2
+Added Pin To Net: NetName=+24V Pin=U500-3
+Added Pin To Net: NetName=NetR502_2 Pin=U500-4
+Added Pin To Net: NetName=NetR501_1 Pin=U500-5
+Added Pin To Net: NetName=NetR500_2 Pin=U500-6
+Added Pin To Net: NetName=GND Pin=U500-7
+Added Pin To Net: NetName=NetC500_2 Pin=U500-8
+Added Pin To Net: NetName=-12V Pin=U500-9
+Added Pin To Net: NetName=NetC600_2 Pin=U600-1
+Added Pin To Net: NetName=+24V Pin=U600-2
+Added Pin To Net: NetName=NetC600_1 Pin=U600-3
+Added Pin To Net: NetName=GND Pin=U600-4
+Added Pin To Net: NetName=Net600_1 Pin=U600-6
+Added Pin To Net: NetName=+24V Pin=U600-7
+Added Pin To Net: NetName=GND Pin=U600-8
+Add Class Member: Failed to add class member : Component BR100 1000V 25A
+Add Class Member: Failed to add class member : Component C404 220uF
+Add Class Member: Failed to add class member : Component C405 220uF
+Add Class Member: Failed to add class member : Component D400 60V 10A
+Add Class Member: Failed to add class member : Component D500 60V 10A
+Add Class Member: Failed to add class member : Component D600 60V 10A
+Added Member To Class: ClassName=200_DC-DC Member=Component U200 DCDC_12V_5A_TO263
+Added Member To Class: ClassName=201_DC-DC Member=Component U300 DCDC_5V_5A_TO263
+Added Member To Class: ClassName=202_DC-DC Member=Component U400 DCDC_3.3V_5A_TO263
+Added Member To Class: ClassName=203_DC-DC Member=Component U500 DCDC_ADJ_5A_DDA
+Added Member To Class: ClassName=204_DC-DC Member=Component U600 DCDC_ADJ_5A_TO263

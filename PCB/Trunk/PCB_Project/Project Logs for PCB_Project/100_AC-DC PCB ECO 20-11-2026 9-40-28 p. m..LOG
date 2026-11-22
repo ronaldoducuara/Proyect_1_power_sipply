@@ -1,0 +1,15 @@
+Change Footprint: Footprint Not Found RADIAL-CAN-SMD_Diax4mm_Hx5.5mm
+Change Component Comment : Designator=C403 Old Comment=220uF New Comment=10uF 10V
+Change component parameters: Designator = "C403" ("C403"); Footprint = "WCAP-PSLP_6.3X5.8(DXL)"; UniqueID = "\YLQDAWSC" ("\YLQDAWSC")
+Change component parameters (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/865090240001/5727989?s=N4IgTCBcDaIOwGYwFoAcCCcAWZBGZAcgCIAEIAugL5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last modified date"; Value = "20240309"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "865090240001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-8394-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"

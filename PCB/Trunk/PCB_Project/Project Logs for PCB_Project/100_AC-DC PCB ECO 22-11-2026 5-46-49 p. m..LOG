@@ -1,0 +1,143 @@
+Add component: Footprint Not Found D_Bridge_1000V_25A_KBPC_FP
+Added Component: Designator=C100(C_Alum_2200uF_50V_D18)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Industry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEU-HD1H222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P15152-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF"; VariantName = "[No Variations]"
+Added Component: Designator=C101(C_Alum_2200uF_50V_D18)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Industry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEU-HD1H222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P15152-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF"; VariantName = "[No Variations]"
+Added Component: Designator=C102(C_Alum_2200uF_50V_D18)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Industry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEU-HD1H222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P15152-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C_Alum_2200uF_50V_D18)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Industry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEU-HD1H222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P15152-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF"; VariantName = "[No Variations]"
+Added Component: Designator=C104(C_Alum_2200uF_50V_D18)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Industry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEU-HD1H222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P15152-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF"; VariantName = "[No Variations]"
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found VREG_LM5017MR/NOPB
+Add component: Footprint Not Found TO127P1435X464-8N
+Add Pin To Net: Unknown Pin: Pin BR100-1
+Add Pin To Net: Unknown Pin: Pin BR100-2
+Add Pin To Net: Unknown Pin: Pin BR100-3
+Add Pin To Net: Unknown Pin: Pin BR100-4
+Added Pin To Net: NetName=GND Pin=C100-N
+Added Pin To Net: NetName=+24V Pin=C100-P
+Added Pin To Net: NetName=GND Pin=C101-N
+Added Pin To Net: NetName=+24V Pin=C101-P
+Added Pin To Net: NetName=GND Pin=C102-N
+Added Pin To Net: NetName=+24V Pin=C102-P
+Added Pin To Net: NetName=GND Pin=C103-N
+Added Pin To Net: NetName=+24V Pin=C103-P
+Added Pin To Net: NetName=GND Pin=C104-N
+Added Pin To Net: NetName=+24V Pin=C104-P
+Add Pin To Net: Unknown Pin: Pin C404-1
+Add Pin To Net: Unknown Pin: Pin C404-2
+Add Pin To Net: Unknown Pin: Pin C405-1
+Add Pin To Net: Unknown Pin: Pin C405-2
+Add Pin To Net: Unknown Pin: Pin D400-1
+Add Pin To Net: Unknown Pin: Pin D400-3
+Add Pin To Net: Unknown Pin: Pin D500-1
+Add Pin To Net: Unknown Pin: Pin D500-3
+Add Pin To Net: Unknown Pin: Pin D600-1
+Add Pin To Net: Unknown Pin: Pin D600-3
+Add Pin To Net: Unknown Pin: Pin U200-1
+Add Pin To Net: Unknown Pin: Pin U200-2
+Add Pin To Net: Unknown Pin: Pin U200-3
+Add Pin To Net: Unknown Pin: Pin U200-4
+Add Pin To Net: Unknown Pin: Pin U200-6
+Add Pin To Net: Unknown Pin: Pin U200-7
+Add Pin To Net: Unknown Pin: Pin U200-8
+Add Pin To Net: Unknown Pin: Pin U300-1
+Add Pin To Net: Unknown Pin: Pin U300-2
+Add Pin To Net: Unknown Pin: Pin U300-3
+Add Pin To Net: Unknown Pin: Pin U300-4
+Add Pin To Net: Unknown Pin: Pin U300-6
+Add Pin To Net: Unknown Pin: Pin U300-7
+Add Pin To Net: Unknown Pin: Pin U300-8
+Add Pin To Net: Unknown Pin: Pin U400-1
+Add Pin To Net: Unknown Pin: Pin U400-2
+Add Pin To Net: Unknown Pin: Pin U400-3
+Add Pin To Net: Unknown Pin: Pin U400-4
+Add Pin To Net: Unknown Pin: Pin U400-6
+Add Pin To Net: Unknown Pin: Pin U400-7
+Add Pin To Net: Unknown Pin: Pin U400-8
+Add Pin To Net: Unknown Pin: Pin U500-1
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-6
+Add Pin To Net: Unknown Pin: Pin U500-7
+Add Pin To Net: Unknown Pin: Pin U500-8
+Add Pin To Net: Unknown Pin: Pin U500-9
+Add Pin To Net: Unknown Pin: Pin U600-1
+Add Pin To Net: Unknown Pin: Pin U600-2
+Add Pin To Net: Unknown Pin: Pin U600-3
+Add Pin To Net: Unknown Pin: Pin U600-4
+Add Pin To Net: Unknown Pin: Pin U600-6
+Add Pin To Net: Unknown Pin: Pin U600-7
+Add Pin To Net: Unknown Pin: Pin U600-8
+Add Class Member: Failed to add class member : Component BR100 1000V 25A
+Added Member To Class: ClassName=100_AC-DC Member=Component C100 C_Alum_2200uF_50V_D18
+Added Member To Class: ClassName=100_AC-DC Member=Component C101 C_Alum_2200uF_50V_D18
+Added Member To Class: ClassName=100_AC-DC Member=Component C102 C_Alum_2200uF_50V_D18
+Added Member To Class: ClassName=100_AC-DC Member=Component C103 C_Alum_2200uF_50V_D18
+Added Member To Class: ClassName=100_AC-DC Member=Component C104 C_Alum_2200uF_50V_D18
+Add Class Member: Failed to add class member : Component C404 220uF
+Add Class Member: Failed to add class member : Component C405 220uF
+Add Class Member: Failed to add class member : Component D400 60V 10A
+Add Class Member: Failed to add class member : Component D500 60V 10A
+Add Class Member: Failed to add class member : Component D600 60V 10A
+Add Class Member: Failed to add class member : Component U200 LM2678S-12
+Add Class Member: Failed to add class member : Component U300 LM2678S-5.0
+Add Class Member: Failed to add class member : Component U400 LM2678S-3.3
+Add Class Member: Failed to add class member : Component U500 TPS54560BDDA
+Add Class Member: Failed to add class member : Component U600 LM2678S-ADJ

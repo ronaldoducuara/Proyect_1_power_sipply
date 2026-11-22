@@ -1,0 +1,290 @@
+Add component: Footprint Not Found 2512
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD500W60D1250H3000
+Add component: Footprint Not Found CAPPRD500W60D1250H3000
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found KBPCxxxxFP
+Add component: Footprint Not Found VS6TQ045SM3
+Add component: Footprint Not Found VS6TQ045SM3
+Add component: Footprint Not Found DIO_MBRAD1060H
+Add component: Footprint Not Found DIO_MBRAD1060H
+Add component: Footprint Not Found DIO_MBRAD1060H
+Add component: Footprint Not Found FUSE_HLD_CARTRIDGE_5x20mm
+Added Component: Designator=J100(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J101(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J102(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J200(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J300(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J400(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J500(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J600(CON_2X1_TH_5MM_BAT)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found L_15uH_7A_SMD
+Add component: Footprint Not Found IND_AMPLA1004S220MT
+Add component: Footprint Not Found IND_SRP1040VA-150M
+Add component: Footprint Not Found L_2SMD_11.5x10X4MM
+Add component: Footprint Not Found L_2SMD_11.5x10X4MM
+Add component: Footprint Not Found S14K300
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 1206
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found VREG_LM5017MR/NOPB
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found Pot_3x1_5mm_TH
+Add Pin To Net: Unknown Pin: Pin 600-1
+Add Pin To Net: Unknown Pin: Pin 600-2
+Add Pin To Net: Unknown Pin: Pin C100-N
+Add Pin To Net: Unknown Pin: Pin C100-P
+Add Pin To Net: Unknown Pin: Pin C101-N
+Add Pin To Net: Unknown Pin: Pin C101-P
+Add Pin To Net: Unknown Pin: Pin C102-N
+Add Pin To Net: Unknown Pin: Pin C102-P
+Add Pin To Net: Unknown Pin: Pin C103-N
+Add Pin To Net: Unknown Pin: Pin C103-P
+Add Pin To Net: Unknown Pin: Pin C104-N
+Add Pin To Net: Unknown Pin: Pin C104-P
+Add Pin To Net: Unknown Pin: Pin C401-N
+Add Pin To Net: Unknown Pin: Pin C401-P
+Add Pin To Net: Unknown Pin: Pin C402-N
+Add Pin To Net: Unknown Pin: Pin C402-P
+Add Pin To Net: Unknown Pin: Pin C404-1
+Add Pin To Net: Unknown Pin: Pin C404-2
+Add Pin To Net: Unknown Pin: Pin C405-1
+Add Pin To Net: Unknown Pin: Pin C405-2
+Add Pin To Net: Unknown Pin: Pin D100-1
+Add Pin To Net: Unknown Pin: Pin D100-2
+Add Pin To Net: Unknown Pin: Pin D100-3
+Add Pin To Net: Unknown Pin: Pin D100-4
+Add Pin To Net: Unknown Pin: Pin D200-2
+Add Pin To Net: Unknown Pin: Pin D200-3
+Add Pin To Net: Unknown Pin: Pin D300-2
+Add Pin To Net: Unknown Pin: Pin D300-3
+Add Pin To Net: Unknown Pin: Pin D400-1
+Add Pin To Net: Unknown Pin: Pin D400-3
+Add Pin To Net: Unknown Pin: Pin D500-1
+Add Pin To Net: Unknown Pin: Pin D500-3
+Add Pin To Net: Unknown Pin: Pin D600-1
+Add Pin To Net: Unknown Pin: Pin D600-3
+Add Pin To Net: Unknown Pin: Pin F100-1
+Add Pin To Net: Unknown Pin: Pin F100-2
+Added Pin To Net: NetName=NetF100_1 Pin=J100-1
+Added Pin To Net: NetName=NetJ100_2 Pin=J100-2
+Added Pin To Net: NetName=NetJ100_2 Pin=J101-1
+Added Pin To Net: NetName=NetF100_2 Pin=J101-2
+Added Pin To Net: NetName=NetD100_3 Pin=J102-1
+Added Pin To Net: NetName=NetD100_1 Pin=J102-2
+Added Pin To Net: NetName=GND Pin=J200-1
+Added Pin To Net: NetName=+12V Pin=J200-2
+Added Pin To Net: NetName=GND Pin=J300-1
+Added Pin To Net: NetName=+5V Pin=J300-2
+Added Pin To Net: NetName=GND Pin=J400-1
+Added Pin To Net: NetName=+3.3V Pin=J400-2
+Added Pin To Net: NetName=-12V Pin=J500-1
+Added Pin To Net: NetName=GND Pin=J500-2
+Added Pin To Net: NetName=GND Pin=J600-1
+Added Pin To Net: NetName=+1.25-15V Pin=J600-2
+Add Pin To Net: Unknown Pin: Pin L200-1
+Add Pin To Net: Unknown Pin: Pin L200-2
+Add Pin To Net: Unknown Pin: Pin L300-1
+Add Pin To Net: Unknown Pin: Pin L300-2
+Add Pin To Net: Unknown Pin: Pin L400-1
+Add Pin To Net: Unknown Pin: Pin L400-2
+Add Pin To Net: Unknown Pin: Pin L500-1
+Add Pin To Net: Unknown Pin: Pin L500-2
+Add Pin To Net: Unknown Pin: Pin L600-1
+Add Pin To Net: Unknown Pin: Pin L600-2
+Add Pin To Net: Unknown Pin: Pin R100-1
+Add Pin To Net: Unknown Pin: Pin R100-2
+Add Pin To Net: Unknown Pin: Pin R500-1
+Add Pin To Net: Unknown Pin: Pin R500-2
+Add Pin To Net: Unknown Pin: Pin R501-1
+Add Pin To Net: Unknown Pin: Pin R501-2
+Add Pin To Net: Unknown Pin: Pin R502-1
+Add Pin To Net: Unknown Pin: Pin R502-2
+Add Pin To Net: Unknown Pin: Pin R503-1
+Add Pin To Net: Unknown Pin: Pin R503-2
+Add Pin To Net: Unknown Pin: Pin R600-1
+Add Pin To Net: Unknown Pin: Pin R600-2
+Add Pin To Net: Unknown Pin: Pin R601-1
+Add Pin To Net: Unknown Pin: Pin R601-2
+Add Pin To Net: Unknown Pin: Pin U200-1
+Add Pin To Net: Unknown Pin: Pin U200-2
+Add Pin To Net: Unknown Pin: Pin U200-3
+Add Pin To Net: Unknown Pin: Pin U200-4
+Add Pin To Net: Unknown Pin: Pin U200-6
+Add Pin To Net: Unknown Pin: Pin U200-7
+Add Pin To Net: Unknown Pin: Pin U200-8
+Add Pin To Net: Unknown Pin: Pin U300-1
+Add Pin To Net: Unknown Pin: Pin U300-2
+Add Pin To Net: Unknown Pin: Pin U300-3
+Add Pin To Net: Unknown Pin: Pin U300-4
+Add Pin To Net: Unknown Pin: Pin U300-6
+Add Pin To Net: Unknown Pin: Pin U300-7
+Add Pin To Net: Unknown Pin: Pin U300-8
+Add Pin To Net: Unknown Pin: Pin U400-1
+Add Pin To Net: Unknown Pin: Pin U400-2
+Add Pin To Net: Unknown Pin: Pin U400-3
+Add Pin To Net: Unknown Pin: Pin U400-4
+Add Pin To Net: Unknown Pin: Pin U400-6
+Add Pin To Net: Unknown Pin: Pin U400-7
+Add Pin To Net: Unknown Pin: Pin U400-8
+Add Pin To Net: Unknown Pin: Pin U500-1
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-6
+Add Pin To Net: Unknown Pin: Pin U500-7
+Add Pin To Net: Unknown Pin: Pin U500-8
+Add Pin To Net: Unknown Pin: Pin U500-9
+Add Pin To Net: Unknown Pin: Pin U600-1
+Add Pin To Net: Unknown Pin: Pin U600-2
+Add Pin To Net: Unknown Pin: Pin U600-3
+Add Pin To Net: Unknown Pin: Pin U600-4
+Add Pin To Net: Unknown Pin: Pin U600-6
+Add Pin To Net: Unknown Pin: Pin U600-7
+Add Pin To Net: Unknown Pin: Pin U600-8
+Add Pin To Net: Unknown Pin: Pin VR600-1
+Add Pin To Net: Unknown Pin: Pin VR600-2
+Add Pin To Net: Unknown Pin: Pin VR600-3
+Add Class Member: Failed to add class member : Component 600 33R 2W
+Add Class Member: Failed to add class member : Component C100 2200uF
+Add Class Member: Failed to add class member : Component C101 2200uF
+Add Class Member: Failed to add class member : Component C102 2200uF
+Add Class Member: Failed to add class member : Component C103 2200uF
+Add Class Member: Failed to add class member : Component C104 2200uF
+Add Class Member: Failed to add class member : Component C401 680uF
+Add Class Member: Failed to add class member : Component C402 680uF
+Add Class Member: Failed to add class member : Component C404 220uF
+Add Class Member: Failed to add class member : Component C405 220uF
+Add Class Member: Failed to add class member : Component D100 KBPC10/15/2510FP_1ph
+Add Class Member: Failed to add class member : Component D200 VS-6TQ045S-M3
+Add Class Member: Failed to add class member : Component D300 VS-6TQ045S-M3
+Add Class Member: Failed to add class member : Component D400 MBRAD1060H
+Add Class Member: Failed to add class member : Component D500 MBRAD1060H
+Add Class Member: Failed to add class member : Component D600 MBRAD1060H
+Add Class Member: Failed to add class member : Component F100 500V 10A
+Added Member To Class: ClassName=100_AC-DC Member=Component J100 2X1
+Added Member To Class: ClassName=100_AC-DC Member=Component J101 2X1
+Added Member To Class: ClassName=100_AC-DC Member=Component J102 2X1
+Added Member To Class: ClassName=200_DC-DC Member=Component J200 2X1
+Added Member To Class: ClassName=201_DC-DC Member=Component J300 2X1
+Added Member To Class: ClassName=202_DC-DC Member=Component J400 2X1
+Added Member To Class: ClassName=203_DC-DC Member=Component J500 2X1
+Added Member To Class: ClassName=204_DC-DC Member=Component J600 2X1
+Add Class Member: Failed to add class member : Component L200 15uH
+Add Class Member: Failed to add class member : Component L300 22uH
+Add Class Member: Failed to add class member : Component L400 15uH
+Add Class Member: Failed to add class member : Component L500 47uH 3A
+Add Class Member: Failed to add class member : Component L600 47uH 3A
+Add Class Member: Failed to add class member : Component R100 S14K300
+Add Class Member: Failed to add class member : Component R500 10k 1/10W
+Add Class Member: Failed to add class member : Component R501 140K 1/10W
+Add Class Member: Failed to add class member : Component R502 200k 1/4W
+Add Class Member: Failed to add class member : Component R503 10k 1/10W
+Add Class Member: Failed to add class member : Component R600 1/10W
+Add Class Member: Failed to add class member : Component R601 1k 1/10W
+Add Class Member: Failed to add class member : Component U200 LM2678S-12
+Add Class Member: Failed to add class member : Component U300 LM2678S-5.0
+Add Class Member: Failed to add class member : Component U400 LM2678S-3.3
+Add Class Member: Failed to add class member : Component U500 TPS54560BDDA
+Add Class Member: Failed to add class member : Component U600 LM2678S-ADJ
+Add Class Member: Failed to add class member : Component VR600 10k 1/5W

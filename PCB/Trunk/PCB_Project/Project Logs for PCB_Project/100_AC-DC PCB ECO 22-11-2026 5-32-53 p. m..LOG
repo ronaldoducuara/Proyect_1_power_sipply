@@ -1,0 +1,257 @@
+Added Component: Designator=*(RV_Varistor_300VAC_125J_D14)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "R.Ducuara"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20261120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B72214P2301K101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Sotck"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=600(2512)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/CRM2512-FX-33R0ELF/CRM2512-FX-33R0ELFCT-ND/5775020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRM2512-FX-33R0ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CRM2512-FX-33R0ELFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Add component: Footprint Not Found D_Bridge_1000V_25A_KBPC_FP
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found CAPPRD750W80D1600H3150
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found WCAP-PSLP_6.3X5.8(DXL)
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Add component: Footprint Not Found D_Schottky_60V_10A_ThinDPAK
+Added Component: Designator=F100(FUSE_HLD_CARTRIDGE_5x20mm)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/schurter-inc/0031-8201/669925?s=N4IgTCBcDaIAxwMwEYB0AOMdkgLoF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240309"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Schurter Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0031.8201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Sotck"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "486-1258-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R500(0603)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=1276-3485-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1608F103CS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-3485-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R501(0603)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07140KL/726947?s=N4IgTCBcDaIEoGEAMA2JBmAYnAtEg7AIwAsSA0gDIgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07140KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-140KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "140k"; VariantName = "[No Variations]"
+Added Component: Designator=R502(1206)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF1206FT200K/RMCF1206FT200KTR-ND/1759778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF1206FT200K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF1206FT200KTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200k"; VariantName = "[No Variations]"
+Added Component: Designator=R503(0603)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=1276-3485-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1608F103CS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-3485-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R600(0603)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/AC0603FR-0726K1L/5895956"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0603FR-0726K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "13-AC0603FR-0726K1LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "26K1"; VariantName = "[No Variations]"
+Added Component: Designator=R601(0603)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-3AEB102V/1465854"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERA-3AEB102V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P1.0KDBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k 0.1%"; VariantName = "[No Variations]"
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found TO127P1435X464-8N
+Add component: Footprint Not Found VREG_LM5017MR/NOPB
+Add component: Footprint Not Found TO127P1435X464-8N
+Added Component: Designator=VR600(Pot_3x1_5mm_TH)
+Add component (AddParameter): Name = "Alternate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last modified date"; Value = "20240310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TT Electronics/BI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel Stock"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "987-1301-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net600_1 Pin=600-1
+Added Pin To Net: NetName=Net600_2 Pin=600-2
+Add Pin To Net: Unknown Pin: Pin BR100-2
+Add Pin To Net: Unknown Pin: Pin BR100-4
+Add Pin To Net: Unknown Pin: Pin C100-N
+Add Pin To Net: Unknown Pin: Pin C100-P
+Add Pin To Net: Unknown Pin: Pin C101-N
+Add Pin To Net: Unknown Pin: Pin C101-P
+Add Pin To Net: Unknown Pin: Pin C102-N
+Add Pin To Net: Unknown Pin: Pin C102-P
+Add Pin To Net: Unknown Pin: Pin C103-N
+Add Pin To Net: Unknown Pin: Pin C103-P
+Add Pin To Net: Unknown Pin: Pin C104-N
+Add Pin To Net: Unknown Pin: Pin C104-P
+Add Pin To Net: Unknown Pin: Pin C404-1
+Add Pin To Net: Unknown Pin: Pin C404-2
+Add Pin To Net: Unknown Pin: Pin C405-1
+Add Pin To Net: Unknown Pin: Pin C405-2
+Add Pin To Net: Unknown Pin: Pin D400-1
+Add Pin To Net: Unknown Pin: Pin D400-3
+Add Pin To Net: Unknown Pin: Pin D500-1
+Add Pin To Net: Unknown Pin: Pin D500-3
+Add Pin To Net: Unknown Pin: Pin D600-1
+Add Pin To Net: Unknown Pin: Pin D600-3
+Added Pin To Net: NetName=NetF100_1 Pin=F100-1
+Added Pin To Net: NetName=NetC505_1 Pin=R500-1
+Added Pin To Net: NetName=NetR500_2 Pin=R500-2
+Added Pin To Net: NetName=NetR501_1 Pin=R501-1
+Added Pin To Net: NetName=GND Pin=R501-2
+Added Pin To Net: NetName=-12V Pin=R502-1
+Added Pin To Net: NetName=NetR502_2 Pin=R502-2
+Added Pin To Net: NetName=-12V Pin=R503-1
+Added Pin To Net: NetName=NetR501_1 Pin=R503-2
+Added Pin To Net: NetName=Net600_2 Pin=R600-1
+Added Pin To Net: NetName=NetR600_2 Pin=R600-2
+Added Pin To Net: NetName=GND Pin=R601-1
+Added Pin To Net: NetName=NetR600_2 Pin=R601-2
+Add Pin To Net: Unknown Pin: Pin U200-1
+Add Pin To Net: Unknown Pin: Pin U200-2
+Add Pin To Net: Unknown Pin: Pin U200-3
+Add Pin To Net: Unknown Pin: Pin U200-4
+Add Pin To Net: Unknown Pin: Pin U200-6
+Add Pin To Net: Unknown Pin: Pin U200-7
+Add Pin To Net: Unknown Pin: Pin U200-8
+Add Pin To Net: Unknown Pin: Pin U300-1
+Add Pin To Net: Unknown Pin: Pin U300-2
+Add Pin To Net: Unknown Pin: Pin U300-3
+Add Pin To Net: Unknown Pin: Pin U300-4
+Add Pin To Net: Unknown Pin: Pin U300-6
+Add Pin To Net: Unknown Pin: Pin U300-7
+Add Pin To Net: Unknown Pin: Pin U300-8
+Add Pin To Net: Unknown Pin: Pin U400-1
+Add Pin To Net: Unknown Pin: Pin U400-2
+Add Pin To Net: Unknown Pin: Pin U400-3
+Add Pin To Net: Unknown Pin: Pin U400-4
+Add Pin To Net: Unknown Pin: Pin U400-6
+Add Pin To Net: Unknown Pin: Pin U400-7
+Add Pin To Net: Unknown Pin: Pin U400-8
+Add Pin To Net: Unknown Pin: Pin U500-1
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-6
+Add Pin To Net: Unknown Pin: Pin U500-7
+Add Pin To Net: Unknown Pin: Pin U500-8
+Add Pin To Net: Unknown Pin: Pin U500-9
+Add Pin To Net: Unknown Pin: Pin U600-1
+Add Pin To Net: Unknown Pin: Pin U600-2
+Add Pin To Net: Unknown Pin: Pin U600-3
+Add Pin To Net: Unknown Pin: Pin U600-4
+Add Pin To Net: Unknown Pin: Pin U600-6
+Add Pin To Net: Unknown Pin: Pin U600-7
+Add Pin To Net: Unknown Pin: Pin U600-8
+Added Pin To Net: NetName=Net600_2 Pin=VR600-1
+Added Pin To Net: NetName=NetR600_2 Pin=VR600-2
+Added Pin To Net: NetName=NetR600_2 Pin=VR600-3
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=J100-2
+Added Pin To Net: NetName=Net*_1 Pin=J101-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=F100-2
+Added Pin To Net: NetName=Net*_2 Pin=J101-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetBR100_1 Pin=J102-2
+Added Net: Name=NetBR100_1
+Added Pin To Net: NetName=NetBR100_3 Pin=J102-1
+Added Net: Name=NetBR100_3
+Added Member To Class: ClassName=100_AC-DC Member=Component * RV_Varistor_300VAC_125J_D14
+Added Member To Class: ClassName=204_DC-DC Member=Component 600 33R 2W
+Add Class Member: Failed to add class member : Component BR100 1000V 25A
+Add Class Member: Failed to add class member : Component C100 2200uF
+Add Class Member: Failed to add class member : Component C101 2200uF
+Add Class Member: Failed to add class member : Component C102 2200uF
+Add Class Member: Failed to add class member : Component C103 2200uF
+Add Class Member: Failed to add class member : Component C104 2200uF
+Add Class Member: Failed to add class member : Component C404 220uF
+Add Class Member: Failed to add class member : Component C405 220uF
+Add Class Member: Failed to add class member : Component D400 60V 10A
+Add Class Member: Failed to add class member : Component D500 60V 10A
+Add Class Member: Failed to add class member : Component D600 60V 10A
+Added Member To Class: ClassName=100_AC-DC Member=Component F100 500V 10A
+Added Member To Class: ClassName=203_DC-DC Member=Component R500 10k 1/10W
+Added Member To Class: ClassName=203_DC-DC Member=Component R501 140K 1/10W
+Added Member To Class: ClassName=203_DC-DC Member=Component R502 200k 1/4W
+Added Member To Class: ClassName=203_DC-DC Member=Component R503 10k 1/10W
+Added Member To Class: ClassName=204_DC-DC Member=Component R600 1/10W
+Added Member To Class: ClassName=204_DC-DC Member=Component R601 1k 1/10W
+Add Class Member: Failed to add class member : Component U200 LM2678S-12
+Add Class Member: Failed to add class member : Component U300 LM2678S-5.0
+Add Class Member: Failed to add class member : Component U400 LM2678S-3.3
+Add Class Member: Failed to add class member : Component U500 TPS54560BDDA
+Add Class Member: Failed to add class member : Component U600 LM2678S-ADJ
+Added Member To Class: ClassName=204_DC-DC Member=Component VR600 10k 1/5W
