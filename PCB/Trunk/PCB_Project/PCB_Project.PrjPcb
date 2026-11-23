@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QZKLJUZW
 
 [Document2]
-DocumentPath=100_AC-DC.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QIYSQLWK
-
-[Document3]
 DocumentPath=000_Hierarchical.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=100_AC-DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMKPDUYU
 
-[Document5]
+[Document4]
 DocumentPath=200_DC-DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -133,6 +116,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSJWGCNW
+
+[Document5]
+DocumentPath=100_AC-DC.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VJKLDELD
 
 [Document6]
 DocumentPath=..\..\..\..\..\AD_Libraries\Capacitors\Capacitors.LibPkg
