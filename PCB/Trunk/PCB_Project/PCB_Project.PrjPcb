@@ -662,7 +662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=..\..\..\AD_Libraries\Discrete_semiconductors\Discrete_semiconductors.IntLib
+DocumentPath=..\..\..\AD_Libraries\LDO-DC_DC\LDO-DC_DC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -679,7 +679,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=..\..\..\AD_Libraries\LDO-DC_DC\LDO-DC_DC.IntLib
+DocumentPath=..\..\..\AD_Libraries\Discrete_semiconductors\Discrete_semiconductors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
